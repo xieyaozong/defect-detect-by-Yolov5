@@ -1,0 +1,5 @@
+#dataset.yaml 內容
+train: test/
+val: test/ 
+nc: 6 # number of classes
+names: ['0','1','2','3','4','5'] # class names
